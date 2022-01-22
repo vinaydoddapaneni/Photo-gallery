@@ -97,4 +97,52 @@ body{
     opacity: 1;
 }
 
+/* Button */
+.btn{
+    margin-top: 100px;
+    text-align: center;
+}
+.button{
+    text-align: center;
+    border-radius: 4px;
+    color: white;
+    padding: 10px;
+    background-color: hotpink;
+    text-decoration: none;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+/* End Button */
+
 /* End Card */
+
+/* Footer */
+.footer{
+    background-color: black;
+    height: 210px;
+    color: white;
+}
+.table1{
+    width: 60%;
+    display: inline-block;
+}
+thead tr th{
+    float: left;
+    margin: 20px 0 20px 100px;
+}
+tbody tr td{
+    float: left;
+    margin: 20px 0 20px 100px;
+}
+.ul-f li{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.table2{
+    display: inline-block;
+    width: 30%;
+}
+/* End Footer */
